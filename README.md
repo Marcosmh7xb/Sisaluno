@@ -1,1 +1,1 @@
-# Sisaluno -  sisterma de cadastro 
+# Sisaluno -  sistema de cadastro 
